@@ -44,7 +44,7 @@ public class UserPanel {
 		MeowCount meow = new MeowCount(cat);
 		doMew(meow);
 		doMew(meow);
-		System.out.println("Кот мяукал: " + meow.getCounter());
+		System.out.println("Кот мяукал: " + meow.getCounter() + " раза.");
 	}
 
 	private void t33() {

@@ -147,9 +147,9 @@ public class CheckInput {
 		List<Integer> result = new ArrayList<>();
 		int minPrev;
 		for (int i = 1; i <= len; i++) {
-			minPrev = i == 1 ? Integer.MIN_VALUE : result.get(i - 2);
+			minPrev = i == 1 ? Integer.MIN_VALUE : (result.get(i - 2)-1);
 			result.add(inputIntRangeMin("Введите " + i + "-ый элемент - число: ",
-					"Число должно быть больше или равно предыдущему: " + minPrev, minPrev));
+					"Число должно быть больше или равно предыдущему: " + (minPrev+1), minPrev));
 		}
 		return result;
 	}
