@@ -76,6 +76,7 @@
     </ul>
 
 <h4>Тесты</h4>
+<img width="503" height="237" alt="image" src="https://github.com/user-attachments/assets/9407b6c0-d8ee-4f72-ae01-6b761fa74e63" />
 <hr>
 
 <h3 id="задание21">Задание 2.1</h3>
@@ -120,6 +121,7 @@
 <p>Также создается вспомогательный класс <code>ExtrMeow</code>, содержащий статический метод <code>doMew(Meowable... animals)</code>, принимающий список мяукающих животных  и заставляющий каждого сделать мяу.</p>
 
 <h4>Тесты</h4>
+<img width="344" height="121" alt="image" src="https://github.com/user-attachments/assets/6834ef21-4021-4303-affe-08e1b385f141" />
 <hr>
 
 <h3 id="задание33">Задание 3.3</h3>
@@ -140,6 +142,7 @@
 </ul>
 
 <h4>Тесты</h4>
+<img width="657" height="475" alt="image" src="https://github.com/user-attachments/assets/61a5d302-789a-4b6a-aa6b-e0bc1674f4be" />
 <hr>
 
 <h3 id="задание43">Задание 4.3</h3>
@@ -186,6 +189,7 @@
 </ul>
 
 <h4>Тесты</h4>
+<img width="285" height="353" alt="image" src="https://github.com/user-attachments/assets/d623443d-dee8-47ce-97ba-00235fee6063" />
 <hr>
 
 <h3 id="задание57">Задание 5.7</h3>
@@ -207,6 +211,7 @@
 </ul>
 
 <h4>Тесты</h4>
+<img width="520" height="62" alt="image" src="https://github.com/user-attachments/assets/6b349c17-7268-42b3-9b57-0897f286bce7" />
 <hr>
 
 <h3 id="задание62">Задание 6.2</h3>
@@ -227,6 +232,7 @@
 </ul>
 
 <h4>Тесты</h4>
+<img width="595" height="239" alt="image" src="https://github.com/user-attachments/assets/7a986e18-4aa1-4c49-b86b-f1c73a36f903" />
 <hr>
 
 <h3 id="задание71">Задание 7.1</h3>
@@ -259,6 +265,7 @@
 </ul>
 
 <h4>Тесты</h4>
+<img width="523" height="475" alt="image" src="https://github.com/user-attachments/assets/7dfd2fcf-85b9-4211-9bde-74425e5c8dba" />
 <hr>
 
 <h3 id="задание72">Задание 7.2</h3>
@@ -304,6 +311,7 @@
 </ul>
 
 <h4>Тесты</h4>
+<img width="531" height="66" alt="image" src="https://github.com/user-attachments/assets/5386bb27-d0b8-41da-b745-d304771bacf2" />
 <hr>
 
 <h2 id="структура-проекта">Структура проекта</h2>
